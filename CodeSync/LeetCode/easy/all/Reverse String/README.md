@@ -6,8 +6,8 @@
 - Topics: Two Pointers, String
 - Runtime: 0 ms
 - Memory: 27.34 MB
-- Problem URL: https://leetcode.com/problems/reverse-string/
-- Synced: 2026-10-09T21:44:27.452Z
+- Problem URL: https://leetcode.com/problems/reverse-string/submissions/2167688519/
+- Synced: 2026-10-09T21:45:12.873Z
 
 ## Problem Description
 
