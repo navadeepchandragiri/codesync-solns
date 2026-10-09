@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-09T21:36:35.420Z",
+  "submissionTimestamp": "2026-10-09T21:37:45.546Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "8.60 MB",
   "difficulty": "Easy",
   "tags": [
     "Math"
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Palindrome Number",
-  "problemUrl": "https://leetcode.com/problems/palindrome-number/",
+  "problemUrl": "https://leetcode.com/problems/palindrome-number/submissions/2167686236/",
   "submissionId": "in68by"
 }
