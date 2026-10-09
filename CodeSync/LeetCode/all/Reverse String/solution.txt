@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:43:54.645Z
+ * Synced: 2026-10-09T21:43:55.234Z
  */
 
 public:
@@ -19,5 +19,5 @@ public:
             swap(s[left],s[right]);
 
             left++;
-            right--
+            right--;
         }
