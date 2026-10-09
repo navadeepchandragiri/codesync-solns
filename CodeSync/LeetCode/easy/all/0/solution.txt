@@ -1,18 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/palindrome-number/description/
+ * URL: https://leetcode.com/problems/reverse-string/description/
  * Language: Problem List
  * Difficulty: Easy
- * Topics: Math
+ * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:34:50.907Z
+ * Synced: 2026-10-09T21:42:20.441Z
  */
 
 class Solution {
 public:
-    bool isPalindrome(int x) {
+    void reverseString(vector<char>& s) {
         
     }
 };
