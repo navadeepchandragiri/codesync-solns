@@ -7,18 +7,16 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:42:29.286Z
+ * Synced: 2026-10-09T21:42:29.692Z
  */
 
 while (x > rev) {
             rev = rev * 10 + x % 10;
-            x /= 10;
-        }
-
-        return x == rev || x == rev / 10;
 
         int rev = 0;
 
             return false;
        if (x < 0 || (x % 10 == 0 && x != 0))
     void reverseString(vector<char>& s) {
+public:
+class Solution {
