@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:43:13.967Z
+ * Synced: 2026-10-09T21:43:22.748Z
  */
 
 class Solution {
@@ -18,5 +18,5 @@ public:
 
         while(left<right){
         
-            
+            sw
         }
