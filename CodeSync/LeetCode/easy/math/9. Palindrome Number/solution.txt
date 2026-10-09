@@ -1,0 +1,15 @@
+/*
+ * Platform: LeetCode
+ * Problem: 9. Palindrome Number
+ * URL: https://leetcode.com/problems/palindrome-number/description/
+ * Language: Text
+ * Difficulty: Easy
+ * Topics: Math
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-09T21:34:49.818Z
+ */
+
+121
+-121
+10
