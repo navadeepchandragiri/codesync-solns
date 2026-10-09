@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:43:10.781Z
+ * Synced: 2026-10-09T21:43:11.478Z
  */
 
 class Solution {
@@ -16,7 +16,7 @@ public:
         int left=0;
         int right=s.size()-1;
 
-        while(left<r)
+        while(left<right)
         
     }
 };
