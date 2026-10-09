@@ -1,0 +1,21 @@
+{
+  "submissionTimestamp": "2026-10-09T21:39:42.019Z",
+  "runtime": "0.019 ms",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Prep",
+    "Additionals",
+    "My Spaces",
+    "Dashboard",
+    "Prep Hub",
+    "DSA",
+    "SQL",
+    "Quantitative"
+  ],
+  "platform": "TakeUForward",
+  "language": "C++",
+  "problemTitle": "Reverse a String II",
+  "problemUrl": "https://takeuforward.org/practice/dsa/reverse-a-string-ii",
+  "submissionId": "1qlc0t"
+}
