@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:42:46.014Z
+ * Synced: 2026-10-09T21:42:46.649Z
  */
 
 class Solution {
@@ -15,5 +15,5 @@ public:
     void reverseString(vector<char>& s) {
         
     }
-        int left=0
+        int left=0;
 };
