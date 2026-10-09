@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:42:55.674Z
+ * Synced: 2026-10-09T21:42:56.097Z
  */
 
 class Solution {
@@ -16,5 +16,5 @@ public:
         
     }
         int left=0;
-        int right=s.si
+        int right=s.siz
 };
