@@ -5,19 +5,19 @@
  * Language: C++
  * Difficulty: Medium
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
- * Runtime: 0.021 ms
+ * Runtime: 0.019 ms
  * Memory: N/A
- * Synced: 2026-10-09T21:43:05.057Z
+ * Synced: 2026-10-09T21:43:16.074Z
  */
 
-int right=s.size() - 1;
+class Solution{ 
+    public:     
+        void reverseString(vector<char>& s){
+            //your code goes here
+            int left=0;
+            int right=s.size() - 1;
             
             while(left<right){
                 swap(s[left],s[right]);
                 left++;
                 right--;
-            int left=0;
-            //your code goes here
-        void reverseString(vector<char>& s){
-    public:     
-class Solution{
