@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 2. Add Two Numbers
+ * URL: https://leetcode.com/problems/add-two-numbers/description/
+ * Language: Text
+ * Difficulty: Medium
+ * Topics: Linked List, Math, Recursion
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-09T21:34:16.684Z
+ */
+
+[2,4,3]
+[5,6,4]
+[0]
+[0]
+[9,9,9,9,9,9,9]
+[9,9,9,9]
