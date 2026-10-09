@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse String
- * URL: https://leetcode.com/problems/reverse-string/submissions/2167688519/
+ * URL: https://leetcode.com/problems/reverse-string/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
  * Runtime: 0 ms
  * Memory: 27.34 MB
- * Synced: 2026-10-09T21:45:12.873Z
+ * Synced: 2026-10-09T21:45:58.266Z
  */
 
 ["h","e","l","l","o"]
