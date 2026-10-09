@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:42:26.421Z
+ * Synced: 2026-10-09T21:42:29.286Z
  */
 
 while (x > rev) {
@@ -16,6 +16,9 @@ while (x > rev) {
         }
 
         return x == rev || x == rev / 10;
-    } 
-    }
-};
+
+        int rev = 0;
+
+            return false;
+       if (x < 0 || (x % 10 == 0 && x != 0))
+    void reverseString(vector<char>& s) {
