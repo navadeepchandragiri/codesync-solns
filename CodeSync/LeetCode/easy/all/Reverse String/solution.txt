@@ -7,16 +7,15 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:42:25.606Z
+ * Synced: 2026-10-09T21:42:26.421Z
  */
 
-int rev = 0;
-
-        while (x > rev) {
+while (x > rev) {
             rev = rev * 10 + x % 10;
             x /= 10;
         }
 
         return x == rev || x == rev / 10;
-            return false;
-       if (x < 0 || (x % 10 == 0 && x != 0))
+    } 
+    }
+};
