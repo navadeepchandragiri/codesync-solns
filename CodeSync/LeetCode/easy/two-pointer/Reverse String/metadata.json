@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-09T21:45:12.873Z",
+  "submissionTimestamp": "2026-10-09T21:45:58.266Z",
   "runtime": "0 ms",
   "memoryUsage": "27.34 MB",
   "difficulty": "Easy",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Reverse String",
-  "problemUrl": "https://leetcode.com/problems/reverse-string/submissions/2167688519/",
+  "problemUrl": "https://leetcode.com/problems/reverse-string/",
   "submissionId": "jmp0hf"
 }
