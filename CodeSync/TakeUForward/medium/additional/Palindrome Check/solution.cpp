@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.024 ms
  * Memory: N/A
- * Synced: 2026-10-10T17:40:29.378Z
+ * Synced: 2026-10-10T17:40:30.134Z
  */
 
 if(s[left]!=s[right]){
@@ -20,4 +20,4 @@ if(s[left]!=s[right]){
 class Solution{ 
 
             string cleaned=" ";
-            for(int i=0;i<)
+            for(int i=0;i<s)
