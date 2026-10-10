@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/palindrome-check
-- Synced: 2026-10-10T17:15:23.569Z
+- Synced: 2026-10-10T17:16:10.914Z
 
 ## Problem Description
 
