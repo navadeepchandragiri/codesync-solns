@@ -7,11 +7,10 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.024 ms
  * Memory: N/A
- * Synced: 2026-10-10T17:40:19.557Z
+ * Synced: 2026-10-10T17:40:20.562Z
  */
 
 if(s[left]!=s[right]){
-                    return false;
             while(left<right){
 
             int right=s.size()-1;
