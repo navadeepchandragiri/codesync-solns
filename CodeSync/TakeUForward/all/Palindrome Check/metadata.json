@@ -1,0 +1,21 @@
+{
+  "submissionTimestamp": "2026-10-10T17:15:23.569Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Prep",
+    "Additionals",
+    "My Spaces",
+    "Dashboard",
+    "Prep Hub",
+    "DSA",
+    "SQL",
+    "Quantitative"
+  ],
+  "platform": "TakeUForward",
+  "language": "C++",
+  "problemTitle": "Palindrome Check",
+  "problemUrl": "https://takeuforward.org/practice/dsa/palindrome-check",
+  "submissionId": "73df69"
+}
