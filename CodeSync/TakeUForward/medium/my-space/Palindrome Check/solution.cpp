@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.024 ms
  * Memory: N/A
- * Synced: 2026-10-10T17:39:53.145Z
+ * Synced: 2026-10-10T17:39:55.280Z
  */
 
 if(s[left]!=s[right]){
@@ -18,4 +18,6 @@ if(s[left]!=s[right]){
             int left=0;
         bool palindromeCheck(string& s){
     public:     
-class Solution{
+class Solution{ 
+
+                }
