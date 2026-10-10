@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-10T17:16:14.368Z
+ * Synced: 2026-10-10T17:16:16.052Z
  */
 
 while(left<right){
@@ -17,9 +17,9 @@ while(left<right){
                 left++;
                 right--;
             }
-
-        }
             return true;
             int right=s.size()-1;
             int left=0;
         bool palindromeCheck(string& s){
+    public:     
+class Solution{
