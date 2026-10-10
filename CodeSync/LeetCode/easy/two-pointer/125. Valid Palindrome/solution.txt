@@ -1,0 +1,15 @@
+/*
+ * Platform: LeetCode
+ * Problem: 125. Valid Palindrome
+ * URL: https://leetcode.com/problems/valid-palindrome/description/
+ * Language: Text
+ * Difficulty: Easy
+ * Topics: Two Pointers, String
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-10T17:17:41.023Z
+ */
+
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
