@@ -1,29 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/add-two-numbers/description/
+ * URL: https://leetcode.com/problems/valid-palindrome/description/
  * Language: Problem List
- * Difficulty: Medium
- * Topics: Linked List, Math, Recursion
+ * Difficulty: Easy
+ * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-09T21:34:18.702Z
+ * Synced: 2026-10-10T17:17:42.980Z
  */
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next
- (next) {}
- * };
- */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+    bool isPalindrome(string s) {
         
     }
 };
