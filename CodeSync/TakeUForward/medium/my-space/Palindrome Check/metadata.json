@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-10T17:39:15.671Z",
+  "submissionTimestamp": "2026-10-10T17:39:48.711Z",
   "runtime": "0.024 ms",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
@@ -17,5 +17,5 @@
   "language": "C++",
   "problemTitle": "Palindrome Check",
   "problemUrl": "https://takeuforward.org/practice/dsa/palindrome-check",
-  "submissionId": "4lwrqs"
+  "submissionId": "nu9mus"
 }
