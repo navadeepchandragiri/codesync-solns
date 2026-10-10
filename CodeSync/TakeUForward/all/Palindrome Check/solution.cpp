@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.024 ms
  * Memory: N/A
- * Synced: 2026-10-10T17:41:57.556Z
+ * Synced: 2026-10-10T17:42:00.719Z
  */
 
 int left=0;
@@ -19,5 +19,5 @@ class Solution{
             for(int i=0;i<s.size();i++){
                 if(isa1num(s[i])){
             }
-                    cleaned+=tolower(s[i])
+                    cleaned+=tolower(s[i]);
                 }
