@@ -5,9 +5,9 @@
  * Language: C++
  * Difficulty: Medium
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
- * Runtime: N/A
+ * Runtime: 0.024 ms
  * Memory: N/A
- * Synced: 2026-10-10T17:16:16.052Z
+ * Synced: 2026-10-10T17:16:19.956Z
  */
 
 while(left<right){
@@ -15,9 +15,6 @@ while(left<right){
                     return false;
                 }
                 left++;
-                right--;
-            }
-            return true;
             int right=s.size()-1;
             int left=0;
         bool palindromeCheck(string& s){
