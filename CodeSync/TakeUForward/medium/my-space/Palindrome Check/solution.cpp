@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.024 ms
  * Memory: N/A
- * Synced: 2026-10-10T17:40:06.433Z
+ * Synced: 2026-10-10T17:40:07.550Z
  */
 
 if(s[left]!=s[right]){
@@ -20,4 +20,4 @@ if(s[left]!=s[right]){
     public:     
 class Solution{ 
 
-            s
+            stri
