@@ -1,16 +1,15 @@
 {
-  "submissionTimestamp": "2026-10-09T21:34:18.702Z",
+  "submissionTimestamp": "2026-10-10T17:17:42.980Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "tags": [
-    "Linked List",
-    "Math",
-    "Recursion"
+    "Two Pointers",
+    "String"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/add-two-numbers/description/",
-  "submissionId": "bmncuk"
+  "problemUrl": "https://leetcode.com/problems/valid-palindrome/description/",
+  "submissionId": "6fw42n"
 }
