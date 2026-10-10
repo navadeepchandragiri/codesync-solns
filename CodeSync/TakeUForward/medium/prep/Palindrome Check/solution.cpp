@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.024 ms
  * Memory: N/A
- * Synced: 2026-10-10T17:40:42.740Z
+ * Synced: 2026-10-10T17:40:51.163Z
  */
 
 int right=s.size()-1;
@@ -18,5 +18,5 @@ class Solution{
 
             string cleaned=" ";
             for(int i=0;i<s.size();i++){
-                
+                if
             }
