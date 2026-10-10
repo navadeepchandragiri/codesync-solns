@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-10-10T17:42:03.345Z",
-  "runtime": "0.024 ms",
+  "submissionTimestamp": "2026-10-10T17:42:06.177Z",
+  "runtime": "Runtime : 0.024 ms",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
@@ -17,5 +17,5 @@
   "language": "C++",
   "problemTitle": "Palindrome Check",
   "problemUrl": "https://takeuforward.org/practice/dsa/palindrome-check",
-  "submissionId": "x6pofm"
+  "submissionId": "jg7isg"
 }
