@@ -5,21 +5,21 @@
  * Language: C++
  * Difficulty: Medium
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
- * Runtime: Runtime : 0.024 ms
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-10T17:44:00.749Z
+ * Synced: 2026-10-10T17:58:42.283Z
  */
 
-while(left<right){
-            int right=cleaned.size()-1;
-            int left=0;
-            }
+return false;
+        }
+        if (s[left] != s[right]) {
+    while (left < right) {
 
-                }
-                    cleaned+=tolower(s[i]);
-                if(isalnum(s[i])){
-            for(int i=0;i<s.size();i++){
-            string cleaned="";
+    int right = s.size() - 1;
+    int left = 0;
+
+
+            //your code goes here
         bool palindromeCheck(string& s){
     public:     
 class Solution{
