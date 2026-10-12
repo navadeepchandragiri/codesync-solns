@@ -5,8 +5,8 @@
 - Difficulty: Easy
 - Topics: Two Pointers, String
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/valid-palindrome/description/
+- Memory: 10.37 MB
+- Problem URL: https://leetcode.com/problems/valid-palindrome/
 - Synced: 2026-10-10T17:51:48.896Z
 
 ## Problem Description
