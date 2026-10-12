@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-10T18:54:19.880Z
+ * Synced: 2026-10-10T18:54:23.497Z
  */
 
 }
@@ -17,3 +17,5 @@
          int right = s.size() - 1;
         //your code goes here
     string largeOddNum(string& s){
+
+        if (right < 0) {
