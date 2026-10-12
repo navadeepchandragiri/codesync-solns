@@ -18,5 +18,8 @@
     "Striver79",
     "AtharvaPatil150"
   ],
-  "leetcode:minimum-insertions-to-balance-a-parentheses-string": []
+  "leetcode:minimum-insertions-to-balance-a-parentheses-string": [],
+  "takeuforward:largest-odd-number-in-a-string": [
+    "custom:g"
+  ]
 }
