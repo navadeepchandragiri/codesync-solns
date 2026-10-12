@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-10T18:54:25.772Z
+ * Synced: 2026-10-10T18:54:26.690Z
  */
 
 }
@@ -17,5 +17,3 @@
         }
             right--;
         while (right >= 0 && (s[right] - '0') % 2 == 0) {
-
-         int right = s.size() - 1;
