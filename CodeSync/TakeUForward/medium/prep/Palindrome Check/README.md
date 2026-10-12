@@ -4,10 +4,10 @@
 - Language: C++
 - Difficulty: Medium
 - Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
-- Runtime: N/A
+- Runtime: 0.027 ms
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/palindrome-check
-- Synced: 2026-10-10T17:58:42.283Z
+- Synced: 2026-10-10T17:58:58.380Z
 
 ## Problem Description
 
