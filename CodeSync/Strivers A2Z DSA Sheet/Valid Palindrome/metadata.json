@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-10T17:47:04.736Z",
+  "submissionTimestamp": "2026-10-10T17:47:51.461Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "10.20 MB",
   "difficulty": "Easy",
   "tags": [
     "Two Pointers",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Valid Palindrome",
-  "problemUrl": "https://leetcode.com/problems/valid-palindrome/",
+  "problemUrl": "https://leetcode.com/problems/valid-palindrome/submissions/2168505731/",
   "submissionId": "w5djio"
 }
