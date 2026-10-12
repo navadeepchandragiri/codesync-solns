@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Longest Common Prefix
+ * URL: https://leetcode.com/problems/longest-common-prefix/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, String, Trie
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-12T08:04:09.218Z
+ */
+
+class Solution {
+public:
+    string longestCommonPrefix(vector<string>& strs) {
+        int ans
+    }
+};
