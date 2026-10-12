@@ -1,23 +1,22 @@
 /*
  * Platform: LeetCode
  * Problem: Valid Palindrome
- * URL: https://leetcode.com/problems/valid-palindrome/description/
+ * URL: https://leetcode.com/problems/valid-palindrome/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-10-10T17:50:15.286Z
+ * Memory: 10.37 MB
+ * Synced: 2026-10-10T17:50:15.294Z
  */
 
-int left = 0;
-    int right = cleaned.size() - 1;
-
-    while (left < right) {
+while (left < right) {
+        if (cleaned[left] != cleaned[right]) {
+            return false;
         }
-            }
-                cleaned+=tolower(s[i]);
-            if(isalnum(s[i])){
-        for(int i=0;i<s.size();i++){
-        string cleaned="";
-    bool isPalindrome(string s) {
+
+        left++;
+        right--;
+    }
+
+    return true;
