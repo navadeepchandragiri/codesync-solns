@@ -1,0 +1,17 @@
+{
+  "submissionTimestamp": "2026-10-10T17:48:26.996Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "platform": "LeetCode",
+  "language": "Daily Question",
+  "problemTitle": "-",
+  "problemUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/?envType=daily-question&envId=2026-10-09",
+  "submissionId": "n8cu0q"
+}
