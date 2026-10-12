@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/largest-odd-number-in-a-string
-- Synced: 2026-10-10T18:54:24.362Z
+- Synced: 2026-10-10T18:54:24.990Z
 
 ## Problem Description
 
