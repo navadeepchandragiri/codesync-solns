@@ -1,0 +1,21 @@
+{
+  "submissionTimestamp": "2026-10-12T08:04:18.587Z",
+  "runtime": "0.052 ms",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Prep",
+    "Additionals",
+    "My Spaces",
+    "Dashboard",
+    "Prep Hub",
+    "DSA",
+    "SQL",
+    "Quantitative"
+  ],
+  "platform": "TakeUForward",
+  "language": "C++",
+  "problemTitle": "Longest Common Prefix",
+  "problemUrl": "https://takeuforward.org/practice/dsa/longest-common-prefix",
+  "submissionId": "peigv"
+}
