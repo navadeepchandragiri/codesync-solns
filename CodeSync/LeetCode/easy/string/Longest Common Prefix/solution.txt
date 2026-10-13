@@ -7,7 +7,7 @@
  * Topics: Array, String, Trie
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T08:05:06.046Z
+ * Synced: 2026-10-12T08:05:06.350Z
  */
 
 class Solution {
@@ -15,7 +15,8 @@ public:
     string longestCommonPrefix(vector<string>& strs) {
         string ans="";
         if(int i=0;i<str[0].size();i++){
-            for(int j=0;j<str.size();j++){}
+            for(int j=0;j<str.size();j++){
+                
+            }
         }
     }
-};
