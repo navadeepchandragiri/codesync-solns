@@ -7,7 +7,7 @@
  * Topics: Array, String, Trie
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T08:06:41.672Z
+ * Synced: 2026-10-12T08:06:45.480Z
  */
 
 class Solution {
@@ -16,7 +16,7 @@ public:
         string ans="";
         if(int i=0;i<str[0].size();i++){
             for(int j=0;j<str.size();j++){
-                if(i>=str[j].size() || i)
+                if(i>=str[j].size() || s)
             }
         }
     }
