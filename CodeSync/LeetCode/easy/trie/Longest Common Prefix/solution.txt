@@ -7,7 +7,7 @@
  * Topics: Array, String, Trie
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T08:08:56.506Z
+ * Synced: 2026-10-12T08:08:56.921Z
  */
 
 class Solution {
@@ -18,5 +18,5 @@ public:
             for(int j=0;j<str.size();j++){
                 if(i>=str[j].size() || str[j][i] != str[0][i]){
             }
-                    return an
+                    return ans
                 }
