@@ -7,7 +7,7 @@
  * Topics: String, String Matching
  * Runtime: 0 ms
  * Memory: 8.18 MB
- * Synced: 2026-10-13T17:49:22.221Z
+ * Synced: 2026-10-13T17:49:22.696Z
  */
 
 for (int i = 0; i < s.length(); i++) {
@@ -15,8 +15,8 @@ for (int i = 0; i < s.length(); i++) {
             return true;
 
         s = s.substr(1) + s[0];
-    }
         return false;
          if (s.length() != goal.length())
     bool rotateString(string s, string goal) {
 public:
+class Solution {
