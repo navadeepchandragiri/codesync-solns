@@ -7,10 +7,11 @@
  * Topics: String, String Matching
  * Runtime: 0 ms
  * Memory: 8.18 MB
- * Synced: 2026-10-13T17:49:16.512Z
+ * Synced: 2026-10-13T17:49:17.039Z
  */
 
-if(s.size() != goal.size()){
-    bool rotateString(string s, string goal) {
-public:
 class Solution {
+public:
+    bool rotateString(string s, string goal) {
+       
+};
