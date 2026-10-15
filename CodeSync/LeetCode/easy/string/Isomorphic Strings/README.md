@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/isomorphic-strings/
-- Synced: 2026-10-12T18:16:24.879Z
+- Synced: 2026-10-12T18:16:25.488Z
 
 ## Problem Description
 
