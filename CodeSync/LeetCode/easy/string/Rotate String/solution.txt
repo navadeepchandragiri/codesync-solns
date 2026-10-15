@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Rotate String
- * URL: https://leetcode.com/problems/rotate-string/
+ * URL: https://leetcode.com/problems/rotate-string/submissions/2171462283/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: String, String Matching
  * Runtime: 0 ms
  * Memory: 8.18 MB
- * Synced: 2026-10-13T17:49:22.696Z
+ * Synced: 2026-10-13T17:50:08.491Z
  */
 
 for (int i = 0; i < s.length(); i++) {
