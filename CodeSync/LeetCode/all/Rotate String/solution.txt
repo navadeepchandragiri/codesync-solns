@@ -7,7 +7,7 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:48:07.253Z
+ * Synced: 2026-10-13T17:48:07.676Z
  */
 
 if(s.size() != goal.size()){
@@ -19,5 +19,5 @@ if(s.size() != goal.size()){
             }
             s=s.substr(1)+s[0];
         }
-        return fals
+        return false
     }
