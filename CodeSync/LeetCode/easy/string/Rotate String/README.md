@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: String, String Matching
-- Runtime: N/A
+- Runtime: 0 ms
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/rotate-string/
-- Synced: 2026-10-13T17:48:09.001Z
+- Synced: 2026-10-13T17:48:15.423Z
 
 ## Problem Description
 
