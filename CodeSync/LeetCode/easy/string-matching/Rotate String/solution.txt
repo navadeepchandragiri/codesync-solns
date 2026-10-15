@@ -7,14 +7,14 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:45:56.182Z
+ * Synced: 2026-10-13T17:45:56.981Z
  */
 
 class Solution {
 public:
     bool rotateString(string s, string goal) {
         if(s.size() != goal.size()){
-            re
+            return
         }
     }
 };
