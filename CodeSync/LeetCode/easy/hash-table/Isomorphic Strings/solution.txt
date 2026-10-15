@@ -7,7 +7,7 @@
  * Topics: Hash Table, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:20:10.615Z
+ * Synced: 2026-10-12T18:20:10.948Z
  */
 
 if(sToT[s[i]] != -1 && sToT[s[i]] !=t[i]){
@@ -20,4 +20,4 @@ if(sToT[s[i]] != -1 && sToT[s[i]] !=t[i]){
             tToS[t[i]] = s[i];
         }
     }
-        return
+        return f
