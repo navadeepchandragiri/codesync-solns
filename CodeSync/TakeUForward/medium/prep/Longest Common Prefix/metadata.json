@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-12T08:10:04.395Z",
+  "submissionTimestamp": "2026-10-12T08:10:45.334Z",
   "runtime": "0.052 ms",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
@@ -17,5 +17,5 @@
   "language": "C++",
   "problemTitle": "Longest Common Prefix",
   "problemUrl": "https://takeuforward.org/practice/dsa/longest-common-prefix",
-  "submissionId": "peigv"
+  "submissionId": "4ggoib"
 }
