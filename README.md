@@ -7,21 +7,21 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 
 | Coding Sheet | Solved | Total |
 | :--- | :--- | :--- |
-| Blind 75 | 3 | 75 |
+| Blind 75 | 4 | 75 |
 | Grind 75 | 3 | 75 |
 | Grind 169 | 3 | 169 |
-| Neetcode 150 | 4 | 150 |
+| Neetcode 150 | 5 | 150 |
 | LeetCode 75 | 2 | 75 |
 | Top Interview 150 | 4 | 150 |
-| LeetCode 100 Most Liked | 1 | 100 |
+| LeetCode 100 Most Liked | 2 | 100 |
 | SQL 50 | 0 | 50 |
-| Strivers A2Z DSA Sheet | 4 | 455 |
+| Strivers A2Z DSA Sheet | 5 | 455 |
 | Striver SDE Sheet | 1 | 191 |
 | Love Babbar Sheet | 0 | 445 |
 | Code Army Sheet | 0 | 726 |
 | GFG 160 | 2 | 160 |
 | CSES Problem Set | 0 | 300 |
-| InterviewBit Sets | 0 | 200 |
+| InterviewBit Sets | 1 | 200 |
 | Nishant Chahar 151 | 3 | 151 |
 | Kushal Vijay Patterns | 0 | 100 |
 | DSA by Shradha Didi & Aman Bhaiya | 3 | 403 |
