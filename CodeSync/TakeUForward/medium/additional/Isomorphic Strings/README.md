@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/isomorphic-string
-- Synced: 2026-10-12T18:13:19.494Z
+- Synced: 2026-10-12T18:20:55.302Z
 
 ## Problem Description
 
