@@ -4,10 +4,10 @@
 - Language: C++
 - Difficulty: Medium
 - Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
-- Runtime: N/A
+- Runtime: 0.010 ms
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/rotate-string
-- Synced: 2026-10-13T17:49:49.661Z
+- Synced: 2026-10-13T17:49:58.588Z
 
 ## Problem Description
 
