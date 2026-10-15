@@ -7,7 +7,7 @@
  * Topics: Array, String, Trie
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T08:09:10.065Z
+ * Synced: 2026-10-12T08:09:12.406Z
  */
 
 public:
@@ -19,5 +19,5 @@ public:
             }
                     return ans;
                 }
-            ans+
+            ans+=st
         }
