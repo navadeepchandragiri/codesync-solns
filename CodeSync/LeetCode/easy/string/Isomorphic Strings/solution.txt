@@ -7,7 +7,7 @@
  * Topics: Hash Table, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:17:46.362Z
+ * Synced: 2026-10-12T18:17:47.174Z
  */
 
 if(s.size() != t.size()){
@@ -19,5 +19,5 @@ if(s.size() != t.size()){
         for(int i=0;i<s.size();i++){
 
             if(sToT[s[i]] != -1 && sToT[s[i]] !=t[i]){
-                return
+                return fal
             }
