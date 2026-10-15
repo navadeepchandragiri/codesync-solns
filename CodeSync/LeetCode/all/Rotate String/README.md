@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: String, String Matching
 - Runtime: 0 ms
-- Memory: N/A
+- Memory: 8.18 MB
 - Problem URL: https://leetcode.com/problems/rotate-string/
-- Synced: 2026-10-13T17:48:15.423Z
+- Synced: 2026-10-13T17:49:04.156Z
 
 ## Problem Description
 
