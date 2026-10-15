@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-12T18:20:12.713Z",
-  "runtime": "N/A",
-  "memoryUsage": "N/A",
+  "submissionTimestamp": "2026-10-12T18:21:15.441Z",
+  "runtime": "0 ms",
+  "memoryUsage": "9.31 MB",
   "difficulty": "Easy",
   "tags": [
     "Hash Table",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Isomorphic Strings",
-  "problemUrl": "https://leetcode.com/problems/isomorphic-strings/",
+  "problemUrl": "https://leetcode.com/problems/isomorphic-strings/submissions/2170505860/",
   "submissionId": "gmjzbl"
 }
