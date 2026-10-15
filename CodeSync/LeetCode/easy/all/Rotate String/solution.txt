@@ -7,7 +7,7 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:47:40.133Z
+ * Synced: 2026-10-13T17:47:40.417Z
  */
 
 public:
@@ -19,5 +19,5 @@ public:
             if(s == goal){
                 return true;
             }
-            s=
+            s=s
         }
