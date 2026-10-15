@@ -7,7 +7,7 @@
  * Topics: Array, String, Trie
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-12T08:11:44.267Z
+ * Synced: 2026-10-12T08:11:48.053Z
  */
 
 }
@@ -20,5 +20,5 @@
             ans+= strs[0][i];
         }
         return ans;
-    }
-};
+    string longestCommonPrefix(vector<string>& strs) {
+public:
