@@ -7,7 +7,7 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:46:19.517Z
+ * Synced: 2026-10-13T17:46:20.058Z
  */
 
 class Solution {
@@ -16,6 +16,7 @@ public:
         if(s.size() != goal.size()){
             return false;
         }
+        for(int i=0;i<s.size();i++){
+            
+        }
     }
-        for(int i=0;i<s.size();i++){}
-};
