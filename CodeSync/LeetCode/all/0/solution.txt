@@ -1,22 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/valid-palindrome/description/
- * Language: Problem List
- * Difficulty: Easy
- * Topics: Two Pointers, String
+ * URL: https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/?envType=daily-question&envId=2026-10-12
+ * Language: Daily Question
+ * Difficulty: Hard
+ * Topics: Array, Hash Table, Greedy, Bit Manipulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-10T17:49:20.921Z
+ * Synced: 2026-10-12T15:55:06.747Z
  */
 
 class Solution {
 public:
-    bool isPalindrome(string s) {
-        string cleaned="";
-        for(int i=0;i<s.size();i++){
-            if(isalnum(s[i])){
-                cleaned+=tolower(s[i]);
-            }
-        }
-       int left = 0;
+    int maxSum(vector<int>& nums, int k) {
+        
+    }
+};
