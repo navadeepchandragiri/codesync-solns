@@ -7,18 +7,15 @@
  * Topics: String, String Matching
  * Runtime: 0 ms
  * Memory: 8.18 MB
- * Synced: 2026-10-13T17:49:05.667Z
+ * Synced: 2026-10-13T17:49:06.083Z
  */
 
 }
         for(int i=0;i<s.size();i++){
             if(s == goal){
                 return true;
-        }
-            return false;
-        if(s.size() != goal.size()){
-    bool rotateString(string s, string goal) {
             s=s.substr(1)+s[0];
         }
         return false;
     }
+};
