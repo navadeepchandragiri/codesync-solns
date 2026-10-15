@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Hash Table, String
-- Runtime: N/A
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/isomorphic-strings/
-- Synced: 2026-10-12T18:20:12.713Z
+- Runtime: 0 ms
+- Memory: 9.31 MB
+- Problem URL: https://leetcode.com/problems/isomorphic-strings/submissions/2170505860/
+- Synced: 2026-10-12T18:21:15.441Z
 
 ## Problem Description
 
