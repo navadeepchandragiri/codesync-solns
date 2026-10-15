@@ -7,10 +7,9 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:47:36.880Z
+ * Synced: 2026-10-13T17:47:38.520Z
  */
 
-class Solution {
 public:
     bool rotateString(string s, string goal) {
         if(s.size() != goal.size()){
@@ -20,4 +19,5 @@ public:
             if(s == goal){
                 return true;
             }
+            
         }
