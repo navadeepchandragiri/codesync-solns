@@ -7,7 +7,7 @@
  * Topics: Hash Table, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:18:31.420Z
+ * Synced: 2026-10-12T18:18:32.112Z
  */
 
 vector<int>sToT(256,-1);
@@ -20,5 +20,5 @@ vector<int>sToT(256,-1);
             }
         }
     }
-            if(tToS[s[i]] !=-1)
+            if(tToS[s[i]] !=-1 )
 };
