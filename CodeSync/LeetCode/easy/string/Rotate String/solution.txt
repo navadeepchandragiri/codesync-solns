@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Rotate String
+ * URL: https://leetcode.com/problems/rotate-string/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: String, String Matching
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-13T17:45:37.806Z
+ */
+
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if
+    }
+};
