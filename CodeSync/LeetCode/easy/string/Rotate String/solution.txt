@@ -5,14 +5,18 @@
  * Language: Problem List
  * Difficulty: Easy
  * Topics: String, String Matching
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-13T17:48:09.001Z
+ * Synced: 2026-10-13T17:48:15.423Z
  */
 
 }
-            s=s.substr(1)+s[0];
+        for(int i=0;i<s.size();i++){
+            if(s == goal){
+                return true;
         }
-        return false;
-    }
-};
+            return false;
+        if(s.size() != goal.size()){
+    bool rotateString(string s, string goal) {
+class Solution {
+public:
