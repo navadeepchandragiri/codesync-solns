@@ -7,7 +7,7 @@
  * Topics: Hash Table, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:16:26.291Z
+ * Synced: 2026-10-12T18:16:27.207Z
  */
 
 bool isIsomorphic(string s, string t) {
@@ -19,5 +19,5 @@ bool isIsomorphic(string s, string t) {
 
         for(int i=0;i<s.size();i++){
 
-            if(sTo)
+            if(sToT)
         }
