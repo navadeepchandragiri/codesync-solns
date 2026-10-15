@@ -1,0 +1,21 @@
+{
+  "submissionTimestamp": "2026-10-13T17:43:45.488Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Prep",
+    "Additionals",
+    "My Spaces",
+    "Dashboard",
+    "Prep Hub",
+    "DSA",
+    "SQL",
+    "Quantitative"
+  ],
+  "platform": "TakeUForward",
+  "language": "C++",
+  "problemTitle": "Rotate String",
+  "problemUrl": "https://takeuforward.org/practice/dsa/rotate-string",
+  "submissionId": "1ss369"
+}
