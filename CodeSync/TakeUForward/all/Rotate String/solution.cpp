@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.010 ms
  * Memory: N/A
- * Synced: 2026-10-13T17:49:59.337Z
+ * Synced: 2026-10-13T17:50:00.152Z
  */
 
 if (s == goal)
@@ -24,3 +24,5 @@ if (s == goal)
     return false;
 }
 };
+    public:
+class Solution{
