@@ -7,12 +7,10 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:47:58.295Z
+ * Synced: 2026-10-13T17:48:01.139Z
  */
 
-public:
-    bool rotateString(string s, string goal) {
-        if(s.size() != goal.size()){
+if(s.size() != goal.size()){
             return false;
         }
         for(int i=0;i<s.size();i++){
@@ -21,3 +19,5 @@ public:
             }
             s=s.substr(1)+s[0];
         }
+        
+    }
