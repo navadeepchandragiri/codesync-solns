@@ -1,17 +1,15 @@
 {
-  "submissionTimestamp": "2026-10-10T17:48:26.996Z",
+  "submissionTimestamp": "2026-10-13T17:45:28.177Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "tags": [
     "String",
-    "Stack",
-    "Greedy",
-    "Bracket Sequences"
+    "String Matching"
   ],
   "platform": "LeetCode",
-  "language": "Daily Question",
+  "language": "Problem List",
   "problemTitle": "-",
-  "problemUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/?envType=daily-question&envId=2026-10-09",
-  "submissionId": "n8cu0q"
+  "problemUrl": "https://leetcode.com/problems/rotate-string/description/",
+  "submissionId": "pn67u3"
 }
