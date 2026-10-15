@@ -7,7 +7,7 @@
  * Topics: Array, String, Trie
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T08:09:29.831Z
+ * Synced: 2026-10-12T08:09:30.604Z
  */
 
 string ans="";
@@ -19,5 +19,5 @@ string ans="";
                 }
             ans+=str[o][i];
         }
-        return ans
+        return ans;
     }
