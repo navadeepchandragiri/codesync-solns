@@ -7,7 +7,7 @@
  * Topics: Hash Table, String
  * Runtime: 0 ms
  * Memory: 9.31 MB
- * Synced: 2026-10-12T18:24:03.100Z
+ * Synced: 2026-10-12T18:24:52.490Z
  */
 
 if(sToT[s[i]] != -1 && sToT[s[i]] !=t[i]){
