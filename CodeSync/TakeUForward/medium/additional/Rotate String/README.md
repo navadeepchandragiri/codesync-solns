@@ -7,7 +7,7 @@
 - Runtime: 0.010 ms
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/rotate-string
-- Synced: 2026-10-13T17:49:58.588Z
+- Synced: 2026-10-13T17:49:59.337Z
 
 ## Problem Description
 
