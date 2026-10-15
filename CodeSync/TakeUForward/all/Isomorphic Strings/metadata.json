@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-10-12T18:20:55.302Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-10-12T18:22:35.611Z",
+  "runtime": "0.010 ms",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
@@ -17,5 +17,5 @@
   "language": "C++",
   "problemTitle": "Isomorphic Strings",
   "problemUrl": "https://takeuforward.org/practice/dsa/isomorphic-string",
-  "submissionId": "ryvi69"
+  "submissionId": "l1fcoh"
 }
