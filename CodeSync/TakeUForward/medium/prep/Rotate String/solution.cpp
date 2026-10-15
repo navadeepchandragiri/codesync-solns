@@ -5,9 +5,9 @@
  * Language: C++
  * Difficulty: Medium
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
- * Runtime: N/A
+ * Runtime: 0.010 ms
  * Memory: N/A
- * Synced: 2026-10-13T17:49:49.661Z
+ * Synced: 2026-10-13T17:49:58.588Z
  */
 
 if (s == goal)
@@ -17,3 +17,11 @@ if (s == goal)
           if (s.length() != goal.length())
         bool rotateString(string& s,string& goal){
     public:
+            return true;
+
+        s = s.substr(1) + s[0];
+    }
+
+    return false;
+}
+};
