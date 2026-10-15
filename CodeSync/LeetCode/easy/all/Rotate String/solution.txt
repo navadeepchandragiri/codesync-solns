@@ -7,12 +7,12 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:45:38.784Z
+ * Synced: 2026-10-13T17:45:40.790Z
  */
 
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        if()
+        if(s.)
     }
 };
