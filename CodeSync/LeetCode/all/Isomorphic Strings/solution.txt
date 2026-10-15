@@ -7,14 +7,14 @@
  * Topics: Hash Table, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:14:24.488Z
+ * Synced: 2026-10-12T18:14:25.386Z
  */
 
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
         if(s.size() != t.size()){
-            r
+            return
         }
     }
 };
