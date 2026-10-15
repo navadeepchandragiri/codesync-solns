@@ -7,16 +7,15 @@
  * Topics: Array, String, Trie
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T08:09:36.025Z
+ * Synced: 2026-10-12T08:09:37.090Z
  */
 
-string ans="";
-        if(int i=0;i<str[0].size();i++){
-            for(int j=0;j<str.size();j++){
-                if(i>=str[j].size() || str[j][i] != str[0][i]){
+if(i>=str[j].size() || str[j][i] != str[0][i]){
             }
                     return ans;
                 }
-    string longestCommonPrefix(vector<string>& strs) {
-public:
-class Solution {
+            ans+=str[o][i];
+        }
+        return ans;
+    }
+};
