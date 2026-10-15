@@ -1,17 +1,15 @@
 {
-  "submissionTimestamp": "2026-10-12T15:55:06.747Z",
+  "submissionTimestamp": "2026-10-12T18:13:44.947Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Hard",
+  "difficulty": "Easy",
   "tags": [
-    "Array",
     "Hash Table",
-    "Greedy",
-    "Bit Manipulation"
+    "String"
   ],
   "platform": "LeetCode",
-  "language": "Daily Question",
+  "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/?envType=daily-question&envId=2026-10-12",
-  "submissionId": "75es4z"
+  "problemUrl": "https://leetcode.com/problems/isomorphic-strings/description/",
+  "submissionId": "coxmja"
 }
