@@ -1,0 +1,21 @@
+{
+  "submissionTimestamp": "2026-10-12T18:10:35.644Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Prep",
+    "Additionals",
+    "My Spaces",
+    "Dashboard",
+    "Prep Hub",
+    "DSA",
+    "SQL",
+    "Quantitative"
+  ],
+  "platform": "TakeUForward",
+  "language": "C++",
+  "problemTitle": "Isomorphic Strings",
+  "problemUrl": "https://takeuforward.org/practice/dsa/isomorphic-string",
+  "submissionId": "avreow"
+}
