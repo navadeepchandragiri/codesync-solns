@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 9.31 MB
 - Problem URL: https://leetcode.com/problems/isomorphic-strings/submissions/2170505860/
-- Synced: 2026-10-12T18:24:52.490Z
+- Synced: 2026-10-12T18:25:45.560Z
 
 ## Problem Description
 
