@@ -7,13 +7,10 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:10:43.582Z
+ * Synced: 2026-10-12T18:10:44.655Z
  */
 
 }
-            sToT[s[i]] = t[i];
-            tToS[t[i]] = s[i];
-        }
         return true;
     }
 };
