@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/?envType=daily-question&envId=2026-10-12
+ * Language: Daily Question
+ * Difficulty: Hard
+ * Topics: Array, Hash Table, Greedy, Bit Manipulation
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-12T15:55:06.747Z
+ */
+
+class Solution {
+public:
+    int maxSum(vector<int>& nums, int k) {
+        
+    }
+};
