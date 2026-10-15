@@ -6,8 +6,8 @@
  * Difficulty: Easy
  * Topics: String, String Matching
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-10-13T17:48:15.423Z
+ * Memory: 8.18 MB
+ * Synced: 2026-10-13T17:49:04.156Z
  */
 
 }
