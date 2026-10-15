@@ -1,0 +1,17 @@
+{
+  "submissionTimestamp": "2026-10-12T15:55:05.084Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "platform": "LeetCode",
+  "language": "Text",
+  "problemTitle": "2897. Apply Operations on Array to Maximize Sum of Squares",
+  "problemUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/?envType=daily-question&envId=2026-10-12",
+  "submissionId": "aof0i4"
+}
