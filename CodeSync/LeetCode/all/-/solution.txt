@@ -1,18 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: -
- * URL: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/?envType=daily-question&envId=2026-10-09
- * Language: Daily Question
- * Difficulty: Medium
- * Topics: String, Stack, Greedy, Bracket Sequences
+ * URL: https://leetcode.com/problems/rotate-string/description/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-10T17:48:26.996Z
+ * Synced: 2026-10-13T17:45:28.177Z
  */
 
 class Solution {
 public:
-    int minInsertions(string s) {
+    bool rotateString(string s, string goal) {
         
     }
 };
