@@ -7,12 +7,12 @@
  * Topics: Hash Table, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:13:59.924Z
+ * Synced: 2026-10-12T18:14:00.990Z
  */
 
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if
+        if()
     }
 };
