@@ -7,11 +7,10 @@
  * Topics: Array, String, Trie
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T08:09:25.955Z
+ * Synced: 2026-10-12T08:09:27.139Z
  */
 
-string longestCommonPrefix(vector<string>& strs) {
-        string ans="";
+string ans="";
         if(int i=0;i<str[0].size();i++){
             for(int j=0;j<str.size();j++){
                 if(i>=str[j].size() || str[j][i] != str[0][i]){
@@ -20,4 +19,5 @@ string longestCommonPrefix(vector<string>& strs) {
                 }
             ans+=str[o][i];
         }
+        
     }
