@@ -4,10 +4,10 @@
 - Language: C++
 - Difficulty: Medium
 - Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
-- Runtime: N/A
+- Runtime: 0.010 ms
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/isomorphic-string
-- Synced: 2026-10-12T18:20:55.302Z
+- Synced: 2026-10-12T18:22:35.611Z
 
 ## Problem Description
 
