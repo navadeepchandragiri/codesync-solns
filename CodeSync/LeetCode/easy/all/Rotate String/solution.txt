@@ -7,17 +7,12 @@
  * Topics: String, String Matching
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T17:48:08.317Z
+ * Synced: 2026-10-13T17:48:09.001Z
  */
 
-if(s.size() != goal.size()){
-            return false;
-        }
-        for(int i=0;i<s.size();i++){
-            if(s == goal){
-                return true;
-            }
+}
             s=s.substr(1)+s[0];
         }
         return false;
     }
+};
