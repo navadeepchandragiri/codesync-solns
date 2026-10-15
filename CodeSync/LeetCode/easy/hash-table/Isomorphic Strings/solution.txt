@@ -7,7 +7,7 @@
  * Topics: Hash Table, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-12T18:15:39.426Z
+ * Synced: 2026-10-12T18:15:41.377Z
  */
 
 class Solution {
@@ -17,6 +17,6 @@ public:
             return false;
         }
         vector<int>sToT(256,-1);
-        vector<int>tTos
+        vector<int>tToS
     }
 };
