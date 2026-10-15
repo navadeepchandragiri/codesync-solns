@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-10-13T17:49:49.661Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-10-13T17:49:58.588Z",
+  "runtime": "0.010 ms",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
@@ -17,5 +17,5 @@
   "language": "C++",
   "problemTitle": "Rotate String",
   "problemUrl": "https://takeuforward.org/practice/dsa/rotate-string",
-  "submissionId": "sw308t"
+  "submissionId": "pi9o7j"
 }
