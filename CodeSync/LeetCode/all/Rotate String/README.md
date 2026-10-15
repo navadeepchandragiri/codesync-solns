@@ -6,8 +6,8 @@
 - Topics: String, String Matching
 - Runtime: 0 ms
 - Memory: 8.18 MB
-- Problem URL: https://leetcode.com/problems/rotate-string/
-- Synced: 2026-10-13T17:49:22.696Z
+- Problem URL: https://leetcode.com/problems/rotate-string/submissions/2171462283/
+- Synced: 2026-10-13T17:50:08.491Z
 
 ## Problem Description
 
