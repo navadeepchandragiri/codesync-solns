@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/rotate-string/
-- Synced: 2026-10-13T17:46:12.919Z
+- Synced: 2026-10-13T17:46:13.518Z
 
 ## Problem Description
 
