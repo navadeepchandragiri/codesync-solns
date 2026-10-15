@@ -7,7 +7,7 @@
 - Runtime: 0.052 ms
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/longest-common-prefix
-- Synced: 2026-10-12T08:08:41.441Z
+- Synced: 2026-10-12T08:10:04.395Z
 
 ## Problem Description
 
