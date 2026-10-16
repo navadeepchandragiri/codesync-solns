@@ -7,7 +7,7 @@
  * Topics: Hash Table, String, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T18:21:22.876Z
+ * Synced: 2026-10-13T18:21:24.276Z
  */
 
 class Solution {
@@ -15,5 +15,5 @@ public:
     bool isAnagram(string s, string t) {
         
     }
-        if(s.size() != s)
+        if(s.size() != t.)
 };
