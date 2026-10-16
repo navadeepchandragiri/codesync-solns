@@ -7,7 +7,7 @@
  * Topics: String, String Matching
  * Runtime: 0 ms
  * Memory: 8.18 MB
- * Synced: 2026-10-13T18:10:07.424Z
+ * Synced: 2026-10-13T18:11:00.955Z
  */
 
 for (int i = 0; i < s.length(); i++) {
