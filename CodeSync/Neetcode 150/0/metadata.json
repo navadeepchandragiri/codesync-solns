@@ -1,15 +1,16 @@
 {
-  "submissionTimestamp": "2026-10-10T17:49:20.921Z",
+  "submissionTimestamp": "2026-10-13T18:21:12.378Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
-    "Two Pointers",
-    "String"
+    "Hash Table",
+    "String",
+    "Sorting"
   ],
   "platform": "LeetCode",
-  "language": "Problem List",
+  "language": "C",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/valid-palindrome/description/",
-  "submissionId": "5rh635"
+  "problemUrl": "https://leetcode.com/problems/valid-anagram/description/",
+  "submissionId": "xvfz9s"
 }
