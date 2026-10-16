@@ -1,0 +1,21 @@
+{
+  "submissionTimestamp": "2026-10-13T18:20:40.284Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Prep",
+    "Additionals",
+    "My Spaces",
+    "Dashboard",
+    "Prep Hub",
+    "DSA",
+    "SQL",
+    "Quantitative"
+  ],
+  "platform": "TakeUForward",
+  "language": "C++",
+  "problemTitle": "Valid Anagram",
+  "problemUrl": "https://takeuforward.org/practice/dsa/valid-anagram",
+  "submissionId": "21214u"
+}
