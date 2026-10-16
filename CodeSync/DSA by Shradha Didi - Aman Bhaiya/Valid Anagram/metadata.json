@@ -1,21 +1,16 @@
 {
-  "submissionTimestamp": "2026-10-13T18:20:40.908Z",
+  "submissionTimestamp": "2026-10-13T18:21:21.937Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "tags": [
-    "Prep",
-    "Additionals",
-    "My Spaces",
-    "Dashboard",
-    "Prep Hub",
-    "DSA",
-    "SQL",
-    "Quantitative"
+    "Hash Table",
+    "String",
+    "Sorting"
   ],
-  "platform": "TakeUForward",
-  "language": "C++",
+  "platform": "LeetCode",
+  "language": "Problem List",
   "problemTitle": "Valid Anagram",
-  "problemUrl": "https://takeuforward.org/practice/dsa/valid-anagram",
-  "submissionId": "3vldkp"
+  "problemUrl": "https://leetcode.com/problems/valid-anagram/",
+  "submissionId": "1x31xx"
 }
