@@ -1,18 +1,18 @@
 # 0
 
 - Platform: LeetCode
-- Language: Problem List
+- Language: C
 - Difficulty: Easy
-- Topics: Two Pointers, String
+- Topics: Hash Table, String, Sorting
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/valid-palindrome/description/
-- Synced: 2026-10-10T17:49:20.921Z
+- Problem URL: https://leetcode.com/problems/valid-anagram/description/
+- Synced: 2026-10-13T18:21:12.378Z
 
 ## Problem Description
 
-A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers. Given a string s, return true if it is a palindrome, or false otherwise. Example 1: Input: s = "A man, a plan, a canal: Panama" Output: true Explanation: "amanaplanacanalpanama" is a palindrome. Example 2: Input: s = "race a car" Output: false Explanation: "raceacar" is not a palindrome. Example 3: Input: s = " " Output: true Explanation: s is an empty string "" after removing non-alphanumeric characters. Since an empty string reads the same forward and backward, it is a palindrome. Constraints: 1 <= s.length <= 2 * 105 s consists only of printable ASCII characters.
+Given two strings s and t, return true if t is an anagram of s, and false otherwise. Example 1: Input: s = "anagram", t = "nagaram" Output: true Example 2: Input: s = "rat", t = "car" Output: false Constraints: 1 <= s.length, t.length <= 5 * 104 s and t consist of lowercase English letters. Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Two Pointers, String. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using C. The detected topics are Hash Table, String, Sorting. Review the synced source file for the implementation details.
