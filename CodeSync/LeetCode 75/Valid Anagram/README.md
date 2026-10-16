@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/valid-anagram
-- Synced: 2026-10-13T18:20:40.284Z
+- Synced: 2026-10-13T18:20:40.908Z
 
 ## Problem Description
 
