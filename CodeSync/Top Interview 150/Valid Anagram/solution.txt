@@ -7,7 +7,7 @@
  * Topics: Hash Table, String, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T18:21:51.534Z
+ * Synced: 2026-10-13T18:22:00.601Z
  */
 
 class Solution {
@@ -19,4 +19,3 @@ public:
         }
         
     }
-};
