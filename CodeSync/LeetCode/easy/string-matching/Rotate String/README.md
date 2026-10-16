@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 8.18 MB
 - Problem URL: https://leetcode.com/problems/rotate-string/submissions/2171462283/
-- Synced: 2026-10-13T18:03:46.039Z
+- Synced: 2026-10-13T18:04:35.969Z
 
 ## Problem Description
 
