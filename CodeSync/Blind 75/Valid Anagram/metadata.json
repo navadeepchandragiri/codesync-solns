@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-13T18:23:09.395Z",
+  "submissionTimestamp": "2026-10-13T18:23:13.001Z",
   "runtime": "0.495 ms",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
@@ -17,5 +17,5 @@
   "language": "C++",
   "problemTitle": "Valid Anagram",
   "problemUrl": "https://takeuforward.org/practice/dsa/valid-anagram",
-  "submissionId": "3vldkp"
+  "submissionId": "1fjhgg"
 }
