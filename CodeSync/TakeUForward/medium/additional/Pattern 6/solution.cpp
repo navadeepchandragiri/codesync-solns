@@ -7,13 +7,11 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-15T17:58:38.343Z
+ * Synced: 2026-10-15T17:58:38.881Z
  */
 
-public:
-    void pattern6(int n) {
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=n-i+1;j++)
+for(int j=1;j<=n-i+1;j++)
             {
                 cout<<j;
             }
+            cout<<endl;
