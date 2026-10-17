@@ -7,7 +7,7 @@
  * Topics: Hash Table, String, Sorting
  * Runtime: 0 ms
  * Memory: 9.79 MB
- * Synced: 2026-10-13T18:34:25.460Z
+ * Synced: 2026-10-13T18:35:10.902Z
  */
 
 "anagram"
