@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/pattern-6
-- Synced: 2026-10-15T17:58:38.881Z
+- Synced: 2026-10-15T17:58:39.458Z
 
 ## Problem Description
 
