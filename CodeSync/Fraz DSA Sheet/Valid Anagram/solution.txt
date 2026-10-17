@@ -7,13 +7,16 @@
  * Topics: Hash Table, String, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T18:21:34.779Z
+ * Synced: 2026-10-13T18:22:01.949Z
  */
 
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        if(s.size() != t.size()){
+            return false;
+
+        }
         
     }
-        if(s.size() != t.size()){}
-};
+        sort
