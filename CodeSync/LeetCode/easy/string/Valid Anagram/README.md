@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Hash Table, String, Sorting
-- Runtime: N/A
-- Memory: N/A
+- Runtime: 0 ms
+- Memory: 9.79 MB
 - Problem URL: https://leetcode.com/problems/valid-anagram/
-- Synced: 2026-10-13T18:22:39.910Z
+- Synced: 2026-10-13T18:29:29.816Z
 
 ## Problem Description
 
