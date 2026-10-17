@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/valid-anagram/
-- Synced: 2026-10-13T18:22:02.506Z
+- Synced: 2026-10-13T18:22:04.877Z
 
 ## Problem Description
 
