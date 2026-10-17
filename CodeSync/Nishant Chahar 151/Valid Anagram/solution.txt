@@ -6,17 +6,15 @@
  * Difficulty: Easy
  * Topics: Hash Table, String, Sorting
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-10-13T18:23:26.811Z
+ * Memory: 9.79 MB
+ * Synced: 2026-10-13T18:29:29.816Z
  */
 
-public:
-    bool isAnagram(string s, string t) {
-    if(s.size() != t.size()){
-                return false;
-            }
-            sort(s.begin(),s.end());
-            sort(t.begin(),t.end());
-            return s == t;
-        }
-};
+"anagram"
+"nagaram"
+"rat"
+"car"
+true
+false
+true
+false
