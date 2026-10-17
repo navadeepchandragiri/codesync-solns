@@ -1,18 +1,18 @@
 # Valid Anagram
 
-- Platform: LeetCode
-- Language: Problem List
-- Difficulty: Easy
-- Topics: Hash Table, String, Sorting
-- Runtime: N/A
+- Platform: TakeUForward
+- Language: C++
+- Difficulty: Medium
+- Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
+- Runtime: 0.495 ms
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/valid-anagram/
-- Synced: 2026-10-13T18:22:39.910Z
+- Problem URL: https://takeuforward.org/practice/dsa/valid-anagram
+- Synced: 2026-10-13T18:23:09.395Z
 
 ## Problem Description
 
-Given two strings s and t, return true if t is an anagram of s, and false otherwise. Example 1: Input: s = "anagram", t = "nagaram" Output: true Example 2: Input: s = "rat", t = "car" Output: false Constraints: 1 <= s.length, t.length <= 5 * 104 s and t consist of lowercase English letters. Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
+Given two strings s and t, return true if t is an anagram of s, and false otherwise. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Hash Table, String, Sorting. Review the synced source file for the implementation details.
+This solution was accepted on TakeUForward using C++. The detected topics are Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative. Review the synced source file for the implementation details.
