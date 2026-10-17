@@ -1,18 +1,18 @@
 # -
 
 - Platform: LeetCode
-- Language: Problem List
+- Language: C
 - Difficulty: Easy
-- Topics: String, String Matching
+- Topics: Hash Table, Math, String
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/rotate-string/description/
-- Synced: 2026-10-13T17:45:28.177Z
+- Problem URL: https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=wrqt2wo2
+- Synced: 2026-10-15T17:59:27.133Z
 
 ## Problem Description
 
-Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s. A shift on s consists of moving the leftmost character of s to the rightmost position. For example, if s = "abcde", then it will be "bcdea" after one shift. Example 1: Input: s = "abcde", goal = "cdeab" Output: true Explanation: Rotating s to the left by 2 positions moves "ab" to the end, resulting in "cdeab", which is equal to goal. Example 2: Input: s = "abcde", goal = "abced" Output: false Explanation: No sequence of rotations of s can produce "abced". The characters appear in a different relative order, so goal is not a rotation of s. Constraints: 1 <= s.length, goal.length <= 100 s and goal consist of lowercase English letters.
+Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M. Symbol Value I 1 V 5 X 10 L 50 C 100 D 500 M 1000 For example, 2 is written as II in Roman numeral, just two ones added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II. Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used: I can be placed before V (5) and X (10) to make 4 and 9. X can be placed before L (50) and C (100) to make 40 and 90. C can be placed before D (500) and M (1000) to make 400 and 900. Given a roman numeral, convert it to an integer. Example 1: Input: s = "III" Output: 3 Explanation: III = 3. Example 2: Input: s = "LVIII" Output: 58 Explanation: L = 50, V= 5, III = 3. Example 3: Input: s = "MCMXCIV" Output: 1994 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4. Constraints: 1 <= s.length <= 15 s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M'). It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are String, String Matching. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using C. The detected topics are Hash Table, Math, String. Review the synced source file for the implementation details.
