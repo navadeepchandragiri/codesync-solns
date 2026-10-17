@@ -7,7 +7,7 @@
  * Topics: Hash Table, String, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-13T18:22:32.715Z
+ * Synced: 2026-10-13T18:22:33.269Z
  */
 
 class Solution {
@@ -17,6 +17,5 @@ public:
             return false;
 
         }
-        
         sort(s.begin(),s.end());
         sort(s.begin(),s.end());
