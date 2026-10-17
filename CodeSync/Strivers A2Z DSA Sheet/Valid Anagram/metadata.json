@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-13T18:23:26.811Z",
+  "submissionTimestamp": "2026-10-13T18:23:55.943Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "9.79 MB",
   "difficulty": "Easy",
   "tags": [
     "Hash Table",
@@ -12,5 +12,5 @@
   "language": "Problem List",
   "problemTitle": "Valid Anagram",
   "problemUrl": "https://leetcode.com/problems/valid-anagram/",
-  "submissionId": "5wbzeg"
+  "submissionId": "tl5chw"
 }
