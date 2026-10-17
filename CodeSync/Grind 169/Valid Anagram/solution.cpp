@@ -7,12 +7,12 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: 0.495 ms
  * Memory: N/A
- * Synced: 2026-10-13T18:23:09.395Z
+ * Synced: 2026-10-13T18:23:13.001Z
  */
 
-sort(t.begin(),t.end());
-            return s == t;
-        }
-};
-            sort(s.begin(),s.end());
-            }
+return false;
+            if(s.size() != t.size()){
+            //your code goes here
+        bool anagramStrings(string &s,string &t){
+    public:
+class Solution{
