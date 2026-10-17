@@ -1,0 +1,17 @@
+{
+  "submissionTimestamp": "2026-10-15T18:01:19.972Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "platform": "LeetCode",
+  "language": "Text",
+  "problemTitle": "112. Path Sum",
+  "problemUrl": "https://leetcode.com/problems/path-sum/description/",
+  "submissionId": "bpwj88"
+}
