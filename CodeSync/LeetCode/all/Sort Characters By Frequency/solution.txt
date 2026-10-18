@@ -1,0 +1,22 @@
+/*
+ * Platform: LeetCode
+ * Problem: Sort Characters By Frequency
+ * URL: https://leetcode.com/problems/sort-characters-by-frequency/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting
+ * Runtime: 0 ms
+ * Memory: 10.21 MB
+ * Synced: 2026-10-15T21:47:58.870Z
+ */
+
+auto cmp =[&](char a, char b){
+
+            freq[ch]++;
+            for(auto ch : s)
+
+                if(freq[a] == freq[b])return a < b;
+                return freq[a] > freq[b];
+               
+            };
+            sort(s.begin(), s.end(), cmp);
