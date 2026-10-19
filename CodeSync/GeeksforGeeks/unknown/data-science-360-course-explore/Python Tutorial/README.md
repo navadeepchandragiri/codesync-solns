@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
-- Synced: 2026-10-17T19:48:00.292Z
+- Synced: 2026-10-17T19:49:00.281Z
 
 ## Problem Description
 
