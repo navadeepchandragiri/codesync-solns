@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/practice/dsa/selection-sort
-- Synced: 2026-10-21T22:13:53.982Z
+- Synced: 2026-10-21T22:14:13.677Z
 
 ## Problem Description
 
