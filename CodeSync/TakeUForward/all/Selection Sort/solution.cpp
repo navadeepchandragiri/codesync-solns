@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-21T22:14:13.677Z
+ * Synced: 2026-10-21T22:14:16.693Z
  */
 
 public:
@@ -17,3 +17,13 @@ for (int i = 0; i < n - 1; i++) {
             int minIndex = i;
 
             for (int j = i + 1; j < n; j++) {
+                if (nums[j] < nums[minIndex]) {
+                    minIndex = j;
+                }
+            }
+
+            swap(nums[i], nums[minIndex]);
+        }
+
+        return nums;
+    }
