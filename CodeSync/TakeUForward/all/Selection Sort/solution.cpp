@@ -7,7 +7,7 @@
  * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-21T22:16:46.333Z
+ * Synced: 2026-10-21T22:26:48.088Z
  */
 
 for (int i = 0; i < n - 1; i++) {
