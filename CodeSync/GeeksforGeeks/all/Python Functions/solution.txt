@@ -1,0 +1,14 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Python Functions
+ * URL: https://www.geeksforgeeks.org/python/python-functions/
+ * Language: def fun(): print("Welcome to GFG")
+ * Difficulty: Unknown
+ * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-22T13:35:08.286Z
+ */
+
+def fun():
+    print("Welcome to GFG")
