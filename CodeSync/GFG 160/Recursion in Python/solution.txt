@@ -7,7 +7,7 @@
  * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-23T19:03:02.670Z
+ * Synced: 2026-10-23T19:04:39.681Z
  */
 
 def factorial(n):
