@@ -1,0 +1,22 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Decision Making
+ * URL: https://www.geeksforgeeks.org/problems/decision-making/1
+ * Language: Python3
+ * Difficulty: Unknown
+ * Topics: Expected Complexities, Topic Tags, Java, CPP, python-conditionals, python, JavaScript, C#
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T18:33:28.751Z
+ */
+
+n = int(input())
+m = int(input())
+
+# code here
+if(n<m):
+    print("less",end="")
+elif(n==m):
+        print("equal",end="")
+else:
+    print("greater",end="")
