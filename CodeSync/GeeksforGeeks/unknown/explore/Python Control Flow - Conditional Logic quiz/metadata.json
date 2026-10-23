@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-10-23T18:12:53.437Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Placement 360 Course Explore",
+    "Placement 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "x = 5 if x > 0: print(\"Positive\") else: print(\"Negative\")",
+  "problemTitle": "Python Control Flow & Conditional Logic quiz",
+  "problemUrl": "https://www.geeksforgeeks.org/quizzes/python-control-flow-conditional-logic-quiz/",
+  "submissionId": "kxwmc5"
+}
