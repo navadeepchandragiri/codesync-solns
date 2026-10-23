@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-10-23T14:08:05.679Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Placement 360 Course Explore",
+    "Placement 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "a = 5 b = 2 print(a // b)",
+  "problemTitle": "Python Fundamentals",
+  "problemUrl": "https://www.geeksforgeeks.org/quizzes/python-fundamentals/",
+  "submissionId": "p5gjxd"
+}
