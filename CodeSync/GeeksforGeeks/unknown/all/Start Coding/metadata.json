@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-23T18:22:50.774Z",
+  "submissionTimestamp": "2026-10-23T18:23:07.119Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Unknown",
@@ -14,8 +14,8 @@
     "C#"
   ],
   "platform": "GeeksforGeeks",
-  "language": "C++ (17)",
+  "language": "Python3",
   "problemTitle": "Start Coding",
   "problemUrl": "https://www.geeksforgeeks.org/problems/start-coding-1/1",
-  "submissionId": "hpglas"
+  "submissionId": "plkcyc"
 }
