@@ -1,0 +1,17 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Multiplication Table
+ * URL: https://www.geeksforgeeks.org/problems/multiplication-table/1
+ * Language: Python3
+ * Difficulty: Unknown
+ * Topics: Expected Complexities, Topic Tags, python-loops, python, Related Articles
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T18:42:06.414Z
+ */
+
+n = int(input())
+
+# code here
+for i in range(1,11):
+        print(n *i,end=" ")
