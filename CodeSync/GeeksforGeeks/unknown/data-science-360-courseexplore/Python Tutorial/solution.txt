@@ -1,0 +1,13 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Python Tutorial
+ * URL: https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+ * Language: print("Hello World!")
+ * Difficulty: Unknown
+ * Topics: Data Science 360 CourseExplore, Data Science 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T13:43:13.619Z
+ */
+
+print("Hello World!")
