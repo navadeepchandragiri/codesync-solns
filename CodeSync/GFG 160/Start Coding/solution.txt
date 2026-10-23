@@ -7,8 +7,8 @@
  * Topics: Expected Complexities, Topic Tags CPPJavapythonJavaScriptC#, Topic Tags, CPP, Java, python, JavaScript, C#
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-23T18:23:18.788Z
+ * Synced: 2026-10-23T18:23:19.580Z
  */
 
 # code here
-print("Hellow")
+print("Hello ")
