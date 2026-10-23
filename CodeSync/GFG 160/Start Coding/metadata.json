@@ -1,21 +1,21 @@
 {
-  "submissionTimestamp": "2026-10-23T18:20:10.890Z",
+  "submissionTimestamp": "2026-10-23T18:20:43.447Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Unknown",
   "tags": [
     "Expected Complexities",
+    "Topic Tags CPPJavapythonJavaScriptC#",
     "Topic Tags",
     "CPP",
     "Java",
     "python",
     "JavaScript",
-    "C#",
-    "Related Articles"
+    "C#"
   ],
   "platform": "GeeksforGeeks",
   "language": "C++ (17)",
   "problemTitle": "Start Coding",
   "problemUrl": "https://www.geeksforgeeks.org/problems/start-coding-1/1",
-  "submissionId": "hh7cqs"
+  "submissionId": "sg9usd"
 }
