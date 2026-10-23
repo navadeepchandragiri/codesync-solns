@@ -1,0 +1,14 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Python Loops
+ * URL: https://www.geeksforgeeks.org/quizzes/python-loops/
+ * Language: for i in range(int(2.0)): print(i)
+ * Difficulty: Unknown
+ * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T18:17:26.095Z
+ */
+
+for i in range(int(2.0)):
+   print(i)
