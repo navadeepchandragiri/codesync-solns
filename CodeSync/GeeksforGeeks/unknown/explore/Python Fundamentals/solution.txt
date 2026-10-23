@@ -1,0 +1,15 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Python Fundamentals
+ * URL: https://www.geeksforgeeks.org/quizzes/python-fundamentals/
+ * Language: a = 5 b = 2 print(a // b)
+ * Difficulty: Unknown
+ * Topics: Placement 360 Course Explore, Placement 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T14:08:05.679Z
+ */
+
+a = 5
+b = 2
+print(a // b)
