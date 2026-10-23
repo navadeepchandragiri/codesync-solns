@@ -7,18 +7,48 @@
  * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-23T18:56:28.334Z
+ * Synced: 2026-10-23T18:56:29.586Z
  */
 
 # *args example
 def fun(*args):
     return sum(args)
-
+​
 print(fun(5, 10, 15))   
-
+​
 # **kwargs example
 def fun(**kwargs):
     for k, val in kwargs.items():
         print(k, val)
-
+​
 fun(a=1, b=2, c=3)
+def myFun(*argv):
+    for arg in argv:
+        print(arg)
+​
+myFun('Hello', 'Welcome', 'to', 'GeeksforGeeks')
+def multiply(*args):
+    result = 1
+    for num in args:
+        result *= num
+    return result
+​
+print(multiply(2, 3, 4))
+def fun(**kwargs):
+    for k, val in kwargs.items():
+        print(k, "=", val)
+​
+fun(s1='Python', s2='is', s3='Awesome')
+def introduce(**kwargs):
+    details = []
+    for k, v in kwargs.items():
+        details.append(k + ": " + str(v))
+    return ", ".join(details)
+​
+print(introduce(Name="Alice", Age=25, City="New York"))
+def student_info(*args, **kwargs):
+    print("Subjects:", args)        # Positional arguments
+    print("Details:", kwargs)       # Keyword arguments
+​
+# Passing subjects as *args and details as **kwargs
+student_info("Math", "Science", "English", Name="Alice", Age=20, City="New York")
