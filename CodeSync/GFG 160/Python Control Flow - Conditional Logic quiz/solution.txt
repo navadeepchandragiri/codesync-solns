@@ -1,0 +1,17 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Python Control Flow & Conditional Logic quiz
+ * URL: https://www.geeksforgeeks.org/quizzes/python-control-flow-conditional-logic-quiz/
+ * Language: x = 5 if x > 0: print("Positive") else: print("Negative")
+ * Difficulty: Unknown
+ * Topics: Placement 360 Course Explore, Placement 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T18:12:53.437Z
+ */
+
+x = 5
+if x > 0:
+  print("Positive")
+else:
+  print("Negative")
