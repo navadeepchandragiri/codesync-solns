@@ -7,7 +7,7 @@
  * Topics: Expected Complexities, Topic Tags CPPJavapythonJavaScriptC#, Topic Tags, CPP, Java, python, JavaScript, C#
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-23T18:21:41.463Z
+ * Synced: 2026-10-23T18:21:54.723Z
  */
 
 #include <iostream>
@@ -15,7 +15,7 @@ using namespace std;
 
 int main() {
     // code here
-    Print("Hello World")
+    print("Hello World")
 
     return 0;
 }
