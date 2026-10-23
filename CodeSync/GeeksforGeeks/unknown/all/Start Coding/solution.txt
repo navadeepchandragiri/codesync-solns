@@ -7,7 +7,7 @@
  * Topics: Expected Complexities, Topic Tags CPPJavapythonJavaScriptC#, Topic Tags, CPP, Java, python, JavaScript, C#
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-23T18:23:21.755Z
+ * Synced: 2026-10-23T18:29:25.825Z
  */
 
 # code here
