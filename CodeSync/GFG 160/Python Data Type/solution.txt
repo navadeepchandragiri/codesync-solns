@@ -1,0 +1,13 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Python Data Type
+ * URL: https://www.geeksforgeeks.org/quizzes/data-type-gq/
+ * Language: x = [1, 23, ‘hello’, 1]
+ * Difficulty: Unknown
+ * Topics: Placement 360 Course Explore, Placement 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T18:10:09.166Z
+ */
+
+x = [1, 23, ‘hello’, 1]
