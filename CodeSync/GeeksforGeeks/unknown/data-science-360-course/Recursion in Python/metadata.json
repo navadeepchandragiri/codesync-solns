@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-10-23T19:03:02.670Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Data Science 360 Course Explore",
+    "Data Science 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "def factorial(n): if n == 0: # Base case return 1 else: # Recursive case return n * factorial(n - 1) print(factorial(5))",
+  "problemTitle": "Recursion in Python",
+  "problemUrl": "https://www.geeksforgeeks.org/python/recursion-in-python/",
+  "submissionId": "dycly8"
+}
