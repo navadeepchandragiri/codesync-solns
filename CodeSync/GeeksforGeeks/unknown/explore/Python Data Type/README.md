@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/quizzes/data-type-gq/
-- Synced: 2026-10-23T18:15:04.022Z
+- Synced: 2026-10-23T18:16:03.010Z
 
 ## Problem Description
 
