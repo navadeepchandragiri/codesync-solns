@@ -1,0 +1,21 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Start Coding
+ * URL: https://www.geeksforgeeks.org/problems/start-coding-1/1
+ * Language: C++ (17)
+ * Difficulty: Unknown
+ * Topics: Expected Complexities, Topic Tags CPPJavapythonJavaScriptC#, Topic Tags, CPP, Java, python, JavaScript, C#
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-23T18:20:43.447Z
+ */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // code here
+    print("Hello orld")
+
+    return 0;
+}
