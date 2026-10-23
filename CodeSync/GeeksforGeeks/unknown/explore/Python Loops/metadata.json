@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-10-23T18:17:26.095Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Data Science 360 Course Explore",
+    "Data Science 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "for i in range(int(2.0)): print(i)",
+  "problemTitle": "Python Loops",
+  "problemUrl": "https://www.geeksforgeeks.org/quizzes/python-loops/",
+  "submissionId": "r6n25i"
+}
