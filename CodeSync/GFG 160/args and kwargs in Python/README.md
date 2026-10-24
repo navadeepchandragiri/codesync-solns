@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/python/args-kwargs-python/
-- Synced: 2026-10-23T19:11:33.037Z
+- Synced: 2026-10-23T19:12:33.029Z
 
 ## Problem Description
 
