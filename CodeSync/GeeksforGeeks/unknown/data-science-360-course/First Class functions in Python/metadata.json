@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-24T19:12:38.224Z",
+  "submissionTimestamp": "2026-10-24T19:12:39.024Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Unknown",
@@ -12,5 +12,5 @@
   "language": "def msg(name): return f\"Hello, {name}!\" # Assigning the function to a variable f = msg # Calling the function using the variable print(f(\"Emma\"))",
   "problemTitle": "First Class functions in Python",
   "problemUrl": "https://www.geeksforgeeks.org/python/first-class-functions-python/",
-  "submissionId": "pjo1r3"
+  "submissionId": "fuc94z"
 }
