@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-10-24T19:12:38.224Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Data Science 360 Course Explore",
+    "Data Science 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "def msg(name): return f\"Hello, {name}!\" # Assigning the function to a variable f = msg # Calling the function using the variable print(f(\"Emma\"))",
+  "problemTitle": "First Class functions in Python",
+  "problemUrl": "https://www.geeksforgeeks.org/python/first-class-functions-python/",
+  "submissionId": "pjo1r3"
+}
