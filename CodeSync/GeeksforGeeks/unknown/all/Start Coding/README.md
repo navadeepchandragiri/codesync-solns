@@ -1,13 +1,13 @@
 # Start Coding
 
 - Platform: GeeksforGeeks
-- Language: Python3
+- Language: Text
 - Difficulty: Unknown
-- Topics: Expected Complexities, Topic Tags CPPJavapythonJavaScriptC#, Topic Tags, CPP, Java, python, JavaScript, C#
+- Topics: Topic Tags Related Articles, Topic Tags, CPP, Java, python, JavaScript, C#, Related Articles
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/start-coding-1/1
-- Synced: 2026-10-23T18:29:25.825Z
+- Synced: 2026-10-24T13:59:25.167Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ The "Hello World" program is a common starting point for learning programming. C
 
 ## Explanation
 
-This solution was accepted on GeeksforGeeks using Python3. The detected topics are Expected Complexities, Topic Tags CPPJavapythonJavaScriptC#, Topic Tags, CPP, Java, python, JavaScript, C#. Review the synced source file for the implementation details.
+This solution was accepted on GeeksforGeeks using Text. The detected topics are Topic Tags Related Articles, Topic Tags, CPP, Java, python, JavaScript, C#, Related Articles. Review the synced source file for the implementation details.
