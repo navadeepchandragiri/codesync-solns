@@ -1,38 +1,5 @@
 {
-  "leetcode:sort-characters-by-frequency": [],
-  "takeuforward:sort-characters-by-frequency": [],
   "geeksforgeeks:python-tutorial": [
-    "GFG160"
-  ],
-  "takeuforward:selection-sort": [],
-  "geeksforgeeks:python-functions": [
-    "GFG160"
-  ],
-  "geeksforgeeks:python-fundamentals": [
-    "GFG160"
-  ],
-  "geeksforgeeks:python-data-type": [
-    "GFG160"
-  ],
-  "geeksforgeeks:python-control-flow-conditional-logic-quiz": [
-    "GFG160"
-  ],
-  "geeksforgeeks:python-loops": [
-    "GFG160"
-  ],
-  "geeksforgeeks:start-coding-1": [
-    "GFG160"
-  ],
-  "geeksforgeeks:decision-making": [
-    "GFG160"
-  ],
-  "geeksforgeeks:multiplication-table": [
-    "GFG160"
-  ],
-  "geeksforgeeks:args-and-kwargs-in-python": [
-    "GFG160"
-  ],
-  "geeksforgeeks:recursion-in-python": [
     "GFG160"
   ]
 }
