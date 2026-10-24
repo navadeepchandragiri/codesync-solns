@@ -4,10 +4,10 @@
  * URL: https://www.geeksforgeeks.org/problems/start-coding-1/1
  * Language: Python3
  * Difficulty: Unknown
- * Topics: Expected Complexities, Topic Tags CPPJavapythonJavaScriptC#, Topic Tags, CPP, Java, python, JavaScript, C#
+ * Topics: Expected Complexities, Topic Tags, CPP, Java, python, JavaScript, C#, Related Articles
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-23T18:29:25.825Z
+ * Synced: 2026-10-24T13:59:26.608Z
  */
 
 # code here
