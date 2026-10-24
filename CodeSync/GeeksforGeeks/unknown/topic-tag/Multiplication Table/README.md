@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/multiplication-table/1
-- Synced: 2026-10-24T13:59:08.813Z
+- Synced: 2026-10-24T19:08:32.794Z
 
 ## Problem Description
 
