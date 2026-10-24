@@ -2,13 +2,13 @@
  * Platform: GeeksforGeeks
  * Problem: Start Coding
  * URL: https://www.geeksforgeeks.org/problems/start-coding-1/1
- * Language: Text
+ * Language: Python3
  * Difficulty: Unknown
- * Topics: Topic Tags Related Articles, Topic Tags, CPP, Java, python, JavaScript, C#, Related Articles
+ * Topics: Expected Complexities, Topic Tags, CPP, Java, python, JavaScript, C#, Related Articles
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-24T13:59:25.167Z
+ * Synced: 2026-10-24T13:59:26.608Z
  */
 
-Output: Hello World
-Explanation: Prints the first message traditionally used to begin learning programming.
+# code here
+print("Hello World")
