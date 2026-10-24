@@ -7,7 +7,7 @@
  * Topics: Expected Complexities, Topic Tags, python-loops, python, Related Articles
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-24T13:57:55.962Z
+ * Synced: 2026-10-24T13:59:08.813Z
  */
 
 n = int(input())
