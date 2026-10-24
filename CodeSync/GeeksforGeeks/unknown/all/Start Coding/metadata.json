@@ -1,21 +1,21 @@
 {
-  "submissionTimestamp": "2026-10-23T18:29:25.825Z",
+  "submissionTimestamp": "2026-10-24T13:59:25.167Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Unknown",
   "tags": [
-    "Expected Complexities",
-    "Topic Tags CPPJavapythonJavaScriptC#",
+    "Topic Tags Related Articles",
     "Topic Tags",
     "CPP",
     "Java",
     "python",
     "JavaScript",
-    "C#"
+    "C#",
+    "Related Articles"
   ],
   "platform": "GeeksforGeeks",
-  "language": "Python3",
+  "language": "Text",
   "problemTitle": "Start Coding",
   "problemUrl": "https://www.geeksforgeeks.org/problems/start-coding-1/1",
-  "submissionId": "u51i6e"
+  "submissionId": "z83034"
 }
