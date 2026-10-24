@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/python/recursion-in-python/
-- Synced: 2026-10-23T19:20:33.030Z
+- Synced: 2026-10-23T19:21:33.033Z
 
 ## Problem Description
 
