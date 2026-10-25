@@ -1,0 +1,31 @@
+/*
+ * Platform: HackerRank
+ * Problem: Python If-Else
+ * URL: https://www.hackerrank.com/challenges/py-if-else/problem
+ * Language: Pypy 3
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-25T19:50:45.142Z
+ */
+
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+
+if __name__ == '__main__':
+    n = int(input().strip())
+if n %2 !=0:
+    print("Weird")
+elif 2<= n <=5:
+    print("Not Weird")
+elif 6<= n <=20:
+    print("Weird")
+elif n>20:
+    print("Not Weird")
