@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/python/first-class-functions-python/
-- Synced: 2026-10-25T19:50:25.566Z
+- Synced: 2026-10-25T19:51:25.569Z
 
 ## Problem Description
 
