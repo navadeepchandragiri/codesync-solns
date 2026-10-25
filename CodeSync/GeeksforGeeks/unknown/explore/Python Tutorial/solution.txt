@@ -4,10 +4,10 @@
  * URL: https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
  * Language: print("Hello World!")
  * Difficulty: Unknown
- * Topics: Data Science 360 CourseExplore, Data Science 360 Course, Explore
+ * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-25T19:32:58.694Z
+ * Synced: 2026-10-25T19:33:46.134Z
  */
 
 print("Hello World!")
